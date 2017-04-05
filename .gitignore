@@ -1,3 +1,4 @@
+*.bu
 config.json
 drafts/
 *.tar.gz

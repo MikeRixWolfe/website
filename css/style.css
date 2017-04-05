@@ -10,8 +10,8 @@ body {
 #content {
   margin: auto;
   background-color: white;
-  padding-top: 20px;
-  max-width: 720px;
+  padding: 20px;
+  max-width: 760px;
 }
 
 #content h1, #home h2 {
@@ -37,6 +37,10 @@ body {
   display: inline-block;
   width: 32%;
   vertical-align: top;
+}
+
+#home p {
+  padding: 5px 30px 5px 30px;
 }
 
 pre {
